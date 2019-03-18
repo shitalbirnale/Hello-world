@@ -1,2 +1,3 @@
 # Hello-world
-First trial
+Hi Humans,
+Just try to use it.
